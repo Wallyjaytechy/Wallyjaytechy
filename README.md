@@ -124,6 +124,8 @@ C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 ![github card](https://github-readme-stats.vercel.app/api/pin/?username=wallyjaytechy&repo=WALLYJAYTECH-MD&theme=radical)
 
 ---
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=light)
 
 <details>
     <summary>&#127942 <b>GitHub Awards</b></summary><br/>
