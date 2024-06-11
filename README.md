@@ -32,7 +32,7 @@ C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 
 ## Others
 
-- 👋 Hi, I’m **Ajibade Adewale Josepj**
+- 👋 Hi, I’m **Ajibade Adewale Joseph**
 
 -  👨🏻‍🦱 **20** years old
 
