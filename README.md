@@ -109,7 +109,7 @@ C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 
 ### 📈 My Stats :
 <p align="center"><a href="https://github.com/wallyjaytechy/followers"><img title="Followers" src="https://img.shields.io/github/followers/wallyjaytechy?color=red&style=flat-square"></a></p>
-<p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=wallyjaytechy&color=green&style=flat-square&label=Profile+View"></a>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=wallyjaytechy&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=wallyjaytechy&color=green&style=flat-square&label=Profile+View"></a>
 </p>
 <p align="center"><a href="https://github.com/wallyjaytechy"><img src="https://github-readme-stats.vercel.app/api?username=wallyjaytechy&show_icons=true&theme=radical"></a></p>
 <p align="center"><a href="https://github.com/wallyjaytechy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyjaytechy&theme=radical&layout=compact"></a></p>
