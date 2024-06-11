@@ -42,7 +42,7 @@ C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 
 -  🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
 
-- 📫 [How to reach me!](https://github.com/wallyjaytechy/wallyjaytech/blob/main/README.md#-how-to-reach-me)
+- 📫 [How to reach me!](https://github.com/wallyjaytechy/wallyjaytech-md/blob/main/README.md#-how-to-reach-me)
 
 - 📄 Know about my [experiences](https://github.com/wallyjaytechy?tab=repositories)
 
