@@ -15,21 +15,44 @@
 
 [![Profile views](https://komarev.com/ghpvc/?username=wallyjaytechy&label=Profile%20views)](https://github.com/wallyjaytechy)
 
+## 📕 About Me
+I'm a Tertiary Student...
+100 level Student...
+I Can Edit Source Files...
+I know very much of Internet...
+Coding is my hobby ☺....
+
+## 🛠 Skills
+C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 
 
 
 
 
+
+## Others
+
+- 👋 Hi, I’m **Ajibade Adewale Josepj**
+
+-  👨🏻‍🦱 **20** years old
+
+-  🗺 Currently living in **Nigeria, Osun, Ife**
 
 - 💫 I’m currently working on [Wallyjaytech-Md](https://github.com/wallyjaytrchy/wallyjaytech-Md)
+
+-  🧠 I’m currently learning **BASIC CODING and PROGRAMMING**
 
 - 📫 [How to reach me!](https://github.com/wallyjaytechy/wallyjaytech/blob/main/README.md#-how-to-reach-me)
 
 - 📄 Know about my [experiences](https://github.com/wallyjaytechy?tab=repositories)
 
-- 👯 I’m looking to collaborate on **JavaScript projects** 
+- 👯 I’m looking to collaborate on **JavaScript projects** and **Whatsapp Bots**
 
-- 🌱 Fun fact **I always wear my favorite pair of quirky socks while programming 😂**
+-  💬 Ask me about **Ai Bots**
+
+- 🚩Instagram : https://instagram.com/wallyjaytechy/
+
+- 🌱 Fun fact about me **When is time for computer class i lock myself up in the computer room and I programs**
 
 ---
 
@@ -72,29 +95,49 @@
 
 [![MY Telegram](https://img.shields.io/badge/telegram-1b77FF.svg?style=for-the-badge&logo=telegram)](https://t.me/anjafrieda) 
 
+[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/wallyjaytech)
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/wallyjaytechy)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@wallyjaytechy)
+
+
+### 📈 My Stats :
+<p align="center"><a href="https://github.com/wallyjaytechy/followers"><img title="Followers" src="https://img.shields.io/github/followers/wallyjaytechy?color=red&style=flat-square"></a></p>
+<p align="center"><a href="https://komarev.com/ghpvc/?username=salmanytofficial&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=wallyjaytechy&color=green&style=flat-square&label=Profile+View"></a>
+</p>
+<p align="center"><a href="https://github.com/wallyjaytechy"><img src="https://github-readme-stats.vercel.app/api?username=wallyjaytechy&show_icons=true&theme=radical"></a></p>
+<p align="center"><a href="https://github.com/wallyjaytechy"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=wallyjaytechy&theme=radical&layout=compact"></a></p>
+<p align="center"><a href="https://github.com/wallyjaytechy"><img src="https://streak-stats.demolab.com/?user=wallyjaytechy&theme=radical"></a></p>
+
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=wallyjaytechy&bg_color=000000&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+
+### 📊 Repo Stats : 
+![github card](https://github-readme-stats.vercel.app/api/pin/?username=wallyjaytechy&repo=WALLYJAYTECH-MD&theme=radical)
+
+---
+
+<details>
+    <summary>&#127942 <b>GitHub Awards</b></summary><br/>
+
+![Github Trophy](https://github-profile-trophy.vercel.app/?username=wallyjaytechy)
+
+</details>
+
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+  ![Metrics](https://metrics.lecoq.io/wallyjaytechy?template=classic&repositories.forks=true&languages=1&languages.colors=github&languages.threshold=0%25&config.timezone=Africa%2FLagos)
+
+</details> 
+
+
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=wallyjaytechy&limit=5&theme=flat&combine_all_yearly_contributions=true)
+
  <br>
 
 <br>
-
-
-
-
-
-
-
-
-
-<!--
-**Wallyjaytechy/Wallyjaytech** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
