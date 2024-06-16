@@ -31,7 +31,7 @@ C&C++, HTML5, CSS, JAVASCRIPT, and so many more...
 
 
 ## Others
-
+[![WALLYJAYTECH](https://telegra.ph/file/d8a22dde44c383b003703.jpg)](https://youtube.com/@wallyjaytechy)
 - 👋 Hi, I’m **Ajibade Adewale Joseph**
 
 -  👨🏻‍🦱 **20** years old
