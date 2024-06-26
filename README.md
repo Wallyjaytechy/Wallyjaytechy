@@ -13,7 +13,9 @@
 </p>
 
 
-[![Profile views](https://komarev.com/ghpvc/?username=wallyjaytechy&label=Profile%20views)](https://github.com/wallyjaytechy)
+<p align="center">
+    <b>ᴠɪsɪᴛᴏʀs</b><br>
+ -->    <img align="middle" src="https://moe1.guruapi.tech/get/@:Guru322?theme=moebooru-h" />
 
 ## 📕 About Me
 I'm a Tertiary Student...
